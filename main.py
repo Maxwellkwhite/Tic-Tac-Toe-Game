@@ -40,7 +40,6 @@ def winner(letter):
     else:
         pass
 
-
 game_board()
 end_of_game = False
 while not end_of_game:
